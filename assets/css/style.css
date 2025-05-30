@@ -105,5 +105,9 @@
     background: #495057;
     color: #fff;
 }
+.reachout .form-control::placeholder {
+    color: #fff !important;
+    opacity: 1;
+}
 
 
