@@ -7,12 +7,9 @@
     font-family: 'Roboto Slab', serif !important;
 }
 
-.hero {
-      background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
-                  url('https://source.unsplash.com/1600x600/?mental,health') 
-                  no-repeat center center;
-      background-size: cover;
-      color: white;
-      padding: 100px 0;
-      text-align: center;
-    }
+.about {
+    background: url('../images/pexels-emma-bauso-1183828-3585811.jpg') center center/cover no-repeat;
+    color: #fff;
+    padding: 80px 0;
+    border-radius: 12px;
+}
