@@ -1,41 +1,35 @@
+/* --- Navbar --- */
 .navbar-brand {
     font-family: 'Pacifico', cursive !important;
     font-size: 2rem !important;
 }
-
-
 .navbar-nav .nav-link {
-    margin-top: 6px; 
-    font-size: 1.3rem; 
+    font-size: 1.3rem;
     margin-top: 8px;
     font-family: 'Roboto Slab', serif !important;
 }
 
+/* --- About Section --- */
 .about {
     background: url('../images/pexels-emma-bauso-1183828-3585811.jpg') center center/cover no-repeat;
     color: #fff;
     padding: 220px 0;
-    border-radius: 0;
     width: 100%;
 }
-
 .about h1 {
-    font-size: 4rem; 
-    
+    font-size: 4rem;
 }
-
 .about p {
-    margin-top: 2rem; 
-    font-size: 1.4rem; 
-    
+    margin-top: 2rem;
+    font-size: 1.4rem;
 }
-
 .comfy-font {
     font-family: 'Pacifico', cursive;
 }
 
+/* --- Organisations Section --- */
 .organisations {
-    background: #dee2e6; 
+    background: #dee2e6;
     color: #23272b;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -44,9 +38,8 @@
     background: #fff;
     color: #23272b;
 }
-
 .org-card {
-    max-width: 40rem;      
+    max-width: 40rem;
     min-height: 350px;
     font-size: 1.15rem;
     margin-bottom: 2rem;
@@ -56,7 +49,6 @@
     align-items: center;
     justify-content: center;
 }
-
 .org-card .card-body {
     text-align: center;
     display: flex;
@@ -64,19 +56,16 @@
     justify-content: center;
     height: 100%;
 }
-
 .samaritans-card .card-text {
     background: rgba(255,255,255,0.85);
     padding: 1rem;
     border-radius: 8px;
 }
 
-
-
-
+/* --- Carousel Controls --- */
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-    background-color: #212529; 
+    background-color: #212529;
     border-radius: 50%;
     background-size: 60% 60%;
     background-position: center;
@@ -85,18 +74,16 @@
     height: 3rem;
     opacity: 1;
 }
-
-/* Move carousel arrows further outwards */
 .carousel-control-prev {
     left: -60px;
 }
-
 .carousel-control-next {
     right: -60px;
 }
 
+/* --- Reach Out Section --- */
 .reachout {
-    background: #212529; 
+    background: #212529;
     color: #fff;
     padding-top: 40px;
     padding-bottom: 40px;
