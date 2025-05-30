@@ -31,7 +31,10 @@ Comfy is a supportive and informative website dedicated to mental health awarene
   - [Technology and Languages](#technologies-and-languages)
   - [Tools & Programs](#tools-and-programs)
 *  [Validation](#validation)
-*  [Credits](#credits)
+*  [Credits](#credits)  
+    [Code](#code)
+    [Content](#content)
+
 
 
 <p align="right"><a href="#Comfy">Back To Top</a></p>
@@ -169,3 +172,8 @@ The footer replicated Code Institute's Love Running project.
 The contact form replicated Code Institute's Boardwalk project.
 
 The navigation bar and tips cards were created using Bootstrap components. The sections were designed with the help of AI tools. The footer is based on the layout from Code Institute's Love Running project, and the contact form is adapted from Code Institute's Boardwalk project.
+
+### Content
+The text content was generated using AI.
+The icons in the footer were from Google Fonts.
+
