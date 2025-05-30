@@ -9,6 +9,9 @@
 
 .navbar-nav .nav-link {
     margin-top: 6px; /* Adjust value as needed */
+    font-size: 1.3rem; /* Increase this value as needed */
+    margin-top: 8px;
+    font-family: 'Roboto Slab', serif !important;
 }
 
 .about {
