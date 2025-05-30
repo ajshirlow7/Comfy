@@ -31,6 +31,7 @@ Comfy is a supportive and informative website dedicated to mental health awarene
   - [Technology and Languages](#technologies-and-languages)
   - [Tools & Programs](#tools-and-programs)
 *  [Validation](#validation)
+*  [Credits](#credits)
 
 
 <p align="right"><a href="#Comfy">Back To Top</a></p>
@@ -153,3 +154,18 @@ HTML also passed with no errors or warnings:
 Lighthouse score has a great best practices and SEO rating:
 
 ![Lighthouse score](documentation/images/lighthouse.png)
+
+## Credits
+
+### Code
+
+This project and learning resources were supplied by Code Institute.
+
+AI tools, specifically GitHub Copilot, played a significant role in the development of this project. Copilot assisted by suggesting code snippets, generating HTML and CSS structures, and providing solutions to common web development challenges. It helped streamline the coding process, offered recommendations for accessibility and responsiveness, and ensured best practices were followed throughout the project. Additionally, AI was used to review and optimize code for performance, accessibility, and SEO, contributing to a higher Lighthouse score and an overall better user experience.
+
+The navigation bar and tips cards were built with Bootstrap features.
+The testimonial section layout was built using AI.
+The footer replicated Code Institute's Love Running project.
+The contact form replicated Code Institute's Boardwalk project.
+
+The navigation bar and tips cards were created using Bootstrap components. The sections were designed with the help of AI tools. The footer is based on the layout from Code Institute's Love Running project, and the contact form is adapted from Code Institute's Boardwalk project.
