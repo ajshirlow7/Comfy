@@ -77,25 +77,25 @@ As a user who needs to reach out, I want a simple contact form so I can send a m
 
 ## Colors
 
-The color palette for Comfy is intentionally simple and calming, using mostly dark greys, soft whites, and subtle accent colors. The dark backgrounds (inspired by Bootstrap’s `bg-dark`) create a sense of comfort and focus, while white and light grey sections provide contrast and keep the content easy to read. This minimal approach helps avoid overwhelming users, supports accessibility, and maintains a welcoming, supportive atmosphere throughout the site.
+The color palette for Comfy is intentionally simple and calming, using mostly dark greys, soft whites, and subtle accent colors. 
+
+Dark Grey / Charcoal: Used for backgrounds (e.g., navbar, struggles section, reach out section). This is inspired by Bootstrap’s bg-dark (#212529).
+White and Light Grey: Used for content sections and cards to provide contrast and keep text easy to read (e.g., #fff, #f8f9fa, #e9ecef, #dee2e6).
+Accent Colors: Subtle accent colors are used for buttons and highlights, such as Bootstrap’s primary blue for buttons.
 
 ## Fonts
 
-The Comfy website uses two Google Fonts: **Pacifico** and **Roboto Slab**. Pacifico is used for the logo and key highlights, giving the site a friendly and welcoming personality. Roboto Slab is used for headings and body text, providing excellent readability and a modern, approachable feel across devices.
-
-These fonts were chosen for their clarity, warmth, and versatility. Headings are bold and prominent, establishing a clear hierarchy and guiding users through the content. Body text is set in regular weight for comfortable reading without straining the eyes. Sufficient line spacing and strong contrast with the background further enhance readability and accessibility.
+The Comfy website uses two Google Fonts: Pacifico and Roboto Slab. Pacifico is used for the logo and key highlights, giving the site a friendly and welcoming personality. Roboto Slab is used for headings and body text, providing excellent readability and a modern, approachable feel across devices.
 
 ## Imagery
 
-Imagery on the Comfy website is used purposefully to support the content and enhance user engagement. The site features a mix of photographs, illustrations, and icons, all chosen to align with the brand's calming and supportive ethos.
+Imagery on the Comfy website is used purposefully to support the content and enhance user engagement. 
 
-- Photographs: Used sparingly, photographs add a human touch and help to create an emotional connection. Images of people are diverse and inclusive, representing various ages, ethnicities, and backgrounds to resonate with a broad audience.
-- Illustrations: Custom illustrations provide a friendly and approachable feel, breaking down complex mental health topics into easily digestible visuals. They are used to complement articles and guides, adding an extra layer of understanding.
-- Icons: Simple, line-based icons are used throughout the site to aid navigation and highlight key features. They are consistent in style and color, ensuring a cohesive look that aligns with the overall design language.
+ The main image on the site is sourced from (https://www.pexels.com/), ensuring high quality and appropriate licensing. 
+ Simple, line-based icons are used throughout the site to aid navigation and highlight key features. All social media icons are sourced from (https://icons8.com/).
 
 ## Wireframes
 
-Wireframes for the Comfy website were created to establish a clear and user-friendly layout, focusing on intuitive navigation and easy access to information. The wireframes outline the structure of key pages, including the homepage, resource articles, and contact page.
+Desktop/Tablet Wireframe
 
-- Homepage: Features a prominent search bar, quick links to popular resources, and a clear pathway to contact support. The layout is clean, with a balanced use of imagery and text to engage users without overwhelming them.
-- Resource Articles: Designed for readability, with a clear hierarchy of headings, subheadings, and body text. Images and illustrations are strategically placed to support the content.
+![Desktop/Tablet Wireframe 1](/documentation/images/Wireframe for desktop and tablet.png)
