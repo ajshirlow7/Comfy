@@ -7,6 +7,10 @@
     font-family: 'Roboto Slab', serif !important;
 }
 
+.navbar-nav .nav-link {
+    margin-top: 6px; /* Adjust value as needed */
+}
+
 .about {
     background: url('../images/pexels-emma-bauso-1183828-3585811.jpg') center center/cover no-repeat;
     color: #fff;
