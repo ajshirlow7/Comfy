@@ -21,11 +21,11 @@ Comfy is a supportive and informative website dedicated to mental health awarene
     - [Wireframes](#wireframes)
 * [Features](#features)
   - [General Features](#general-features)
-    - [Navigation and Hero Section](#navigation-and-hero-section)
+    - [Navigation Section](#navigation-section)
     - [Bootstrap Cards](#bootstrap-cards)
-    - [Policies Section](#policies-section)
     - [Footer](#footer)
-    - [Links and Buttons](#links-and-buttons)
+    - [Carousel Arrow Buttons](#carousel-arrow-buttons)
+    - [Organisation Links](#organisation-links)
   - [Resnposive Design](#responsive-design)
 * [Built With](#built-with)
   - [Technology and Languages](#technologies-and-languages)
@@ -96,6 +96,63 @@ Imagery on the Comfy website is used purposefully to support the content and enh
 
 ## Wireframes
 
-Desktop/Tablet Wireframe
+Wireframe for Desktop/Tablet:
 
-![Desktop/Tablet Wireframe 1](/documentation/images/Wireframe for desktop and tablet.png)
+![Comfy Homepage Wireframe](documentation/images/wireframe1.png)
+
+Wireframe for Mobile:
+![Comfy Homepage Wireframe](documentation/images/wireframe2.png)
+
+
+## Features
+
+### General Features
+
+#### Navigation Section
+
+The navigation bar on the Comfy website is designed for clarity, accessibility, and ease of use across all devices. It is fixed to the top of the page and uses a dark background to match the site’s calming theme. The navbar includes links to the main sections of the site: About, Struggles, Organisations, and Reach Out. On smaller screens, the navigation collapses into a mobile-friendly hamburger menu, allowing users to easily access all sections with a single tap. The navigation links are styled with larger, readable fonts for a welcoming and accessible experience.
+
+#### Bootstrap Cards
+In the Struggles section, Bootstrap cards are used to present information about common mental health challenges in a clear and visually appealing way. Each card highlights a specific struggle—such as anxiety, depression, or stress—with a concise title and a brief, supportive description. The cards are arranged in responsive rows, ensuring they look good on all screen sizes, from desktop to mobile.
+
+#### Bootstrap Carousel
+In the Organisations section, a Bootstrap carousel is used to showcase trusted mental health organisations that offer support and resources. Each slide in the carousel features a card with the organisation’s name, a brief description of the support they provide, and a direct link to their website. The carousel allows users to easily browse through multiple organisations in a compact space, with navigation arrows for cycling between them. 
+
+#### Footer
+The footer of the Comfy website provides a simple, consistent closing element on every page. It features a dark background to match the site's theme and includes a supportive message to reassure users that they are not alone. Additionally, the footer displays social media icons.
+
+#### Carousel Arrow Buttons
+
+The arrow buttons on the carousel allow users to easily scroll left or right through the different organisations. Clicking the left arrow shows the previous organisation, while clicking the right arrow shows the next one.
+
+#### Organisation Links
+
+Each organisation card includes a button that links directly to the organisation’s official website. When users click the button, it opens the organisation’s site in a new tab for more information or support.
+
+### Responsive Design
+
+This project is responsive using Bootstraps grid system
+
+![Responsive Design](/documentation/images/responsive.png)
+
+## Built With
+
+### Technologies and Languages
+- HTML5
+- CSS3
+- GitHub
+
+### Tools and Progress
+- Balsamiq
+- MS Co Pilot/ GitHub co pilot
+
+## Validation
+The HTML and CSS have been validated using the W3C validators.
+
+CSS passed with no errors or warnings:
+
+![CSS validation](documentation/images/css.png)
+
+HTML also passed with no errors or warnings:
+
+![HTML validation](documentation/images/html.png)
