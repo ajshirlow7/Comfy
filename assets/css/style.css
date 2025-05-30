@@ -89,4 +89,21 @@
     right: -60px;
 }
 
+.reachout {
+    background: #212529; /* Bootstrap's bg-dark/nav bar color */
+    color: #fff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.reachout .form-control,
+.reachout .form-label {
+    background: #343a40;
+    color: #fff;
+    border: none;
+}
+.reachout .form-control:focus {
+    background: #495057;
+    color: #fff;
+}
+
 
