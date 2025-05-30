@@ -33,3 +33,14 @@
 .comfy-font {
     font-family: 'Pacifico', cursive;
 }
+
+.organisations {
+    background: #dee2e6; /* A bit more grey than #e9ecef */
+    color: #23272b;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.organisations .card {
+    background: #fff;
+    color: #23272b;
+}
