@@ -26,18 +26,12 @@ Comfy is a supportive and informative website dedicated to mental health awarene
     - [Footer](#footer)
     - [Carousel Arrow Buttons](#carousel-arrow-buttons)
     - [Organisation Links](#organisation-links)
-  - [Resnposive Design](#responsive-design)
+  - [Responsive Design](#responsive-design)
 * [Built With](#built-with)
   - [Technology and Languages](#technologies-and-languages)
   - [Libraries and Frameworks](#libraries-and-frameworks)
   - [Tools & Programs](#tools-and-programs)
-* [Development](#deployment)
-* [Testing](#testing)
-* [Credits](#credits)
-  - [Code](#code)
-  - [Content Research](#content-research)
-  - [Media](#media)
-  - [Acknowledgements](#acknowledgements)
+*  [Validation](#validation)
 
 
 <p align="right"><a href="#Comfy">Back To Top</a></p>
@@ -156,3 +150,7 @@ CSS passed with no errors or warnings:
 HTML also passed with no errors or warnings:
 
 ![HTML validation](documentation/images/html.png)
+
+Lighthouse score has a great best practices and SEO rating:
+
+![Lighthouse score](documentation/images/lighthouse.png)
