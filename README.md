@@ -29,7 +29,6 @@ Comfy is a supportive and informative website dedicated to mental health awarene
   - [Responsive Design](#responsive-design)
 * [Built With](#built-with)
   - [Technology and Languages](#technologies-and-languages)
-  - [Libraries and Frameworks](#libraries-and-frameworks)
   - [Tools & Programs](#tools-and-programs)
 *  [Validation](#validation)
 
